@@ -1,6 +1,6 @@
 # Saba 👨‍💻
 
-### Beginner Developer • Programming Enthusiast • Future Software Engineer
+### Beginner Developer • Programming Enthusiast • Future Cybersecurity Developer
 
 ---
 
@@ -8,7 +8,7 @@
 
 * 👋 Hi, I'm **Saba**, a beginner programmer from Georgia 🇬🇪
 * 🌱 Currently learning programming and exploring new technologies
-* 💻 Interested in Web Development, Python, and Software Engineering
+* 💻 Interested in Cybersecurity and Software Engineering
 * 🚀 My goal is to build creative projects and become a skilled developer
 * 🔍 Always curious, always learning
 * 📩 Reach me: sabaamiranashvili2009@gmail.com
